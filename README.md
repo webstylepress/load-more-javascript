@@ -1,1 +1,1 @@
-# load-more-javascript
+# Load More Javascript
